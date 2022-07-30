@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @vsevolod-zhabskyi
+- 👀 I’m interested in React and Node.js development, because it's awesome :)
+- 🌱 I’m currently learning NestJS
+- 💞️ I’m looking to collaborate on commercial projects with a team of professionals
+- 📫 How to reach me: 
+  - Email: vsevolod.zhabskiy@gmail.com
+  - Telegram: @vsevolod_zhabskyi
+  - LinkedIn: https://www.linkedin.com/in/vsevolod-zhabskyi/
